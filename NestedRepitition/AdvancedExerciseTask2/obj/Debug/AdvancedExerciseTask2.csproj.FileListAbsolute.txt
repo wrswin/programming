@@ -1,6 +1,0 @@
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\AdvancedExerciseTask2\bin\Debug\AdvancedExerciseTask2.exe.config
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\AdvancedExerciseTask2\bin\Debug\AdvancedExerciseTask2.exe
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\AdvancedExerciseTask2\bin\Debug\AdvancedExerciseTask2.pdb
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\AdvancedExerciseTask2\obj\Debug\AdvancedExerciseTask2.csproj.CoreCompileInputs.cache
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\AdvancedExerciseTask2\obj\Debug\AdvancedExerciseTask2.exe
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\AdvancedExerciseTask2\obj\Debug\AdvancedExerciseTask2.pdb

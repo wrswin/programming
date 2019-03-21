@@ -1,8 +1,0 @@
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise1Task1\bin\Debug\Exercise1Task1.exe.config
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise1Task1\bin\Debug\Exercise1Task1.exe
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise1Task1\bin\Debug\Exercise1Task1.pdb
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise1Task1\obj\Debug\Exercise1Task1.csproj.CoreCompileInputs.cache
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise1Task1\obj\Debug\Exercise1Task1.exe
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise1Task1\obj\Debug\Exercise1Task1.pdb
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise1Task1\bin\Debug\Exercise1Task1.exe.CodeAnalysisLog.xml
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise1Task1\bin\Debug\Exercise1Task1.exe.lastcodeanalysissucceeded

@@ -1,7 +1,0 @@
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task1\bin\Debug\Exercise2Task1.exe.config
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task1\bin\Debug\Exercise2Task1.exe
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task1\bin\Debug\Exercise2Task1.pdb
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task1\obj\Debug\Exercise2Task1.csproj.CoreCompileInputs.cache
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task1\obj\Debug\Exercise2Task1.exe
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task1\obj\Debug\Exercise2Task1.pdb
-C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task1\obj\Debug\Exercise2Task1.csprojAssemblyReference.cache
