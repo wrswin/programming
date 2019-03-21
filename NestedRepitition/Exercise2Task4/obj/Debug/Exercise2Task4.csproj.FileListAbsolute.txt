@@ -1,0 +1,6 @@
+C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task4\bin\Debug\Exercise2Task4.exe.config
+C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task4\bin\Debug\Exercise2Task4.exe
+C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task4\bin\Debug\Exercise2Task4.pdb
+C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task4\obj\Debug\Exercise2Task4.csproj.CoreCompileInputs.cache
+C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task4\obj\Debug\Exercise2Task4.exe
+C:\Users\102506005\Documents\GitHub\programming\NestedRepitition\Exercise2Task4\obj\Debug\Exercise2Task4.pdb
